@@ -1,6 +1,10 @@
 ### Hi there, I'm Kevin. 👋
 - 👨‍💻 I'm a second year Computer Science student at the University of British Columbia.
+- 🇨🇦 Originally from Richmond, BC
 - 😄 Pronouns: he/him
+
+### Contact me
+Feel free to reach out to me at kevinchen452@gmail.com and connect on [Linkedin](https://www.linkedin.com/in/kevinchen452/)!
 
 <!--
 - 🔭 I’m currently working on ...
