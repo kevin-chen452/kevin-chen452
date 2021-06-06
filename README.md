@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin. 👋
-- 👨‍💻 I'm a second year Computer Science student at the University of British Columbia
+- 👨‍💻 I'm a third year Computer Science student at the University of British Columbia
 - 🇨🇦 Originally from Richmond, BC
 - 😄 Pronouns: he/him
 
