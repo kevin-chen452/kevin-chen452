@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him
 
 ### Contact me
-Feel free to reach out to me at kevinchen452@gmail.com or connect on [Linkedin](https://www.linkedin.com/in/kevinchen452/)!
+Feel free to reach out to me at kchen07@student.ubc.ca or connect on [Linkedin](https://www.linkedin.com/in/kevinchen452/)!
 
 <!--
 - 🔭 I’m currently working on ...
