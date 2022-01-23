@@ -1,10 +1,10 @@
 ### Hi there, I'm Kevin. 👋
 - 👨‍💻 I'm a third year Computer Science student at the University of British Columbia
-- 🇨🇦 Originally from Richmond, BC
 - 😄 Pronouns: he/him
+- 😊 Passionate about the latest technology, stocks, and building interpersonal relationships
+- 🎨 Hobbies: language learning, hackathons, cooking
+- 📎 Feel free to reach out to me at kchen07@student.ubc.ca or connect on [Linkedin](https://www.linkedin.com/in/kevinchen452/)!
 
-### Contact me
-Feel free to reach out to me at kchen07@student.ubc.ca or connect on [Linkedin](https://www.linkedin.com/in/kevinchen452/)!
 
 <!--
 - 🔭 I’m currently working on ...
