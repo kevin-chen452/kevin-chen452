@@ -3,7 +3,7 @@
 - 😄 Pronouns: he/him
 - 😊 Passionate about the latest technology, stocks, and building interpersonal relationships
 - 🎨 Hobbies: language learning, hackathons, cooking
-- 📎 Feel free to reach out to me at kchen07@student.ubc.ca or connect on [Linkedin](https://www.linkedin.com/in/kevinchen452/)!
+- 📎 Feel free to reach out to me at kevinc4526@gmail.com or connect on [Linkedin](https://www.linkedin.com/in/kevinchen452/)!
 
 
 <!--
