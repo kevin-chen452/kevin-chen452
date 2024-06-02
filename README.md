@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin. 👋
-- 👨‍💻 I'm a fourth year Computer Science student at the University of British Columbia
+- 👨‍💻 I'm a recent graduate from the Computer Science BSc program at the University of British Columbia
 - 😄 Pronouns: he/him
 - 😊 Passionate about the latest technology, stocks, and building interpersonal relationships
 - 🎨 Hobbies: language learning, hackathons, cooking
